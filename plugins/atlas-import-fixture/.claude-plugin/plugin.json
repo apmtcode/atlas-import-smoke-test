@@ -1,0 +1,6 @@
+{
+  "name": "atlas-import-fixture",
+  "version": "0.0.1",
+  "description": "Test-only metadata plugin for Atlas creator import verification; contains no tools or executable code.",
+  "license": "MIT"
+}
